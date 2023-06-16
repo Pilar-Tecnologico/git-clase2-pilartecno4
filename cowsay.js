@@ -1,9 +1,9 @@
 const cowsay = require('cowsay');
 
-const cow = cowsay.say({
+const message = cowsay.say({
     text : "Hola PilarTecno #4 Soy una vaquita",
     e : "oO",
     T : "U "
 });
 
-console.log(cow);
+console.log(message);
