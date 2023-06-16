@@ -1,0 +1,6 @@
+# .env con claves importantes
+.env
+# node_modules con las librerias
+node_modules/
+logs/
+dist/
