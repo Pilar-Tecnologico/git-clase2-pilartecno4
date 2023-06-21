@@ -6,4 +6,11 @@ const message = cowsay.say({
     T : "U "
 });
 
+const message2 = cowsay.say({
+    text : "Soy la segunda vaquita",
+    e : "00",
+    T : "b "
+});
+
 console.log(message);
+console.log(message2)
